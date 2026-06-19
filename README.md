@@ -35,7 +35,7 @@ an independent robot model (Peter Corke's Robotics Toolbox).
 </td>
 <td valign="top" align="right">
 
-<img src="docs/FrankeEmikaImage.png" height="380" alt="Franka Research 3 with colour-coded joint rings">
+<img src="docs/FrankeEmikaImage.png" height="390" alt="Franka Research 3 with colour-coded joint rings">
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ are colour-matched to the joint rings in the rendering.
 <tr>
 <td valign="top">
 
-<img src="docs/FrankeEmikaImage.png" height="380" alt="Franka with colour-coded joint rings">
+<img src="docs/FrankeEmikaImage.png" height="390" alt="Franka with colour-coded joint rings">
 
 </td>
 <td valign="top">
